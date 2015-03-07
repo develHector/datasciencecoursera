@@ -1,2 +1,2 @@
 # Data Science Coursera Repository
-Data Science Program file sharing and version control resource
+Data Science Coursera program file sharing and version control resource
